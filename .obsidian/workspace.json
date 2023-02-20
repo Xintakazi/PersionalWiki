@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d01e10c97a898fb7",
+        "id": "143bb598c1a62a61",
         "type": "tabs",
         "children": [
           {
-            "id": "803f454b4b7451cd",
+            "id": "763454b3134b1091",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Linux/linux_note_image/2023-02-16-08-07-20.png"
-              }
-            }
-          },
-          {
-            "id": "66a9b93d9bdb9c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人笔记/Linux/Linux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人笔记/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人笔记/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "个人笔记/Linux/Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +140,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "66a9b93d9bdb9c6c",
+  "active": "763454b3134b1091",
   "lastOpenFiles": [
-    "Linux/linux_note_image/2023-02-16-08-07-20.png",
-    "Linux/test.md",
-    "Linux/001.md"
+    "个人笔记/Linux/note/日志文件.md",
+    "个人笔记/Linux/note/启动流程与模块管理.md",
+    "个人笔记/Linux/note/系统设置与备份策略.md",
+    "个人笔记/Linux/note/软件安装.md",
+    "个人笔记/Linux/note/RPM、SRPM、YUM.md",
+    "个人笔记/Linux/note/XWindows设置.md",
+    "个人笔记/Linux/note/内核编译和管理.md",
+    "个人笔记/Linux/note/认识系统服务.md",
+    "个人笔记/Linux/Linux.md",
+    "Linux/linux_note_image/2023-02-16-08-07-20.png"
   ]
 }
