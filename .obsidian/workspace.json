@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人笔记/Linux/note/Linux是什么.md",
+                "file": "个人笔记/Linux/Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人笔记/Linux/note/Linux是什么.md",
+                "file": "个人笔记/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人笔记/Linux/note/Linux是什么.md",
+                "file": "个人笔记/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人笔记/Linux/note/Linux是什么.md"
+                "file": "个人笔记/Linux/Linux.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "89a69233c75ea2bd",
   "lastOpenFiles": [
+    "个人笔记/Linux/BASH学习.md",
+    "个人笔记/Linux/主机规划与磁盘分区.md",
     "个人笔记/Linux/Linux.md",
-    "个人笔记/Linux/note/Linux是什么.md",
+    "个人笔记/Linux/Linux是什么.md",
     "个人笔记/Linux/image/Pasted image 20230220204717.png",
     "Pasted image 20230220204544.png",
     "Linux/001.md",
-    "个人笔记/Linux/note/首次登陆.md",
-    "个人笔记/Linux/note/文件与文件系统的压缩.md",
-    "个人笔记/Linux/note/磁盘与文件系统管理.md",
-    "个人笔记/Linux/note/XWindows设置.md",
-    "个人笔记/Linux/note/内核编译和管理.md"
+    "个人笔记/Linux/首次登陆.md",
+    "个人笔记/Linux/文件与文件系统的压缩.md",
+    "个人笔记/Linux/磁盘与文件系统管理.md"
   ]
 }

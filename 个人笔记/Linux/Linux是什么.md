@@ -1,4 +1,4 @@
-# [目录](../Linux.md)
+# [目录](Linux.md)
 ![](Pasted%20image%2020230220204717.png)
 - 是一个`操作系统内核`
 - `核心概念`：所有的程序和系统设备都是`文件`
@@ -53,4 +53,4 @@ e ---> b
 	- [腾讯](https://mirrors.tencent.com/)
 	- [网易](http://mirrors.163.com/)
 
-# [目录](../Linux.md)
+# [目录](Linux.md)
