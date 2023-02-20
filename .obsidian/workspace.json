@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "763454b3134b1091",
+            "id": "89a69233c75ea2bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "个人笔记/Linux/note/Linux是什么.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "个人笔记/Linux/note/Linux是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "个人笔记/Linux/note/Linux是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "个人笔记/Linux/note/Linux是什么.md"
+              }
             }
           }
         ]
@@ -140,17 +149,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "763454b3134b1091",
+  "active": "89a69233c75ea2bd",
   "lastOpenFiles": [
-    "个人笔记/Linux/note/日志文件.md",
-    "个人笔记/Linux/note/启动流程与模块管理.md",
-    "个人笔记/Linux/note/系统设置与备份策略.md",
-    "个人笔记/Linux/note/软件安装.md",
-    "个人笔记/Linux/note/RPM、SRPM、YUM.md",
-    "个人笔记/Linux/note/XWindows设置.md",
-    "个人笔记/Linux/note/内核编译和管理.md",
-    "个人笔记/Linux/note/认识系统服务.md",
     "个人笔记/Linux/Linux.md",
-    "Linux/linux_note_image/2023-02-16-08-07-20.png"
+    "个人笔记/Linux/note/Linux是什么.md",
+    "个人笔记/Linux/image/Pasted image 20230220204717.png",
+    "Pasted image 20230220204544.png",
+    "Linux/001.md",
+    "个人笔记/Linux/note/首次登陆.md",
+    "个人笔记/Linux/note/文件与文件系统的压缩.md",
+    "个人笔记/Linux/note/磁盘与文件系统管理.md",
+    "个人笔记/Linux/note/XWindows设置.md",
+    "个人笔记/Linux/note/内核编译和管理.md"
   ]
 }
