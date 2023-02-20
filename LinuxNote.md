@@ -1,13 +1,3 @@
----
-title: 第一节课
-description: 
-published: 1
-date: 2023-02-20T10:47:31.205Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-16T02:41:19.258Z
----
-
 # Linux系统应用
 
 ## 泛雅
@@ -15,7 +5,6 @@ dateCreated: 2023-02-16T02:41:19.258Z
 2. 作业
 3. 上课笔记，资料 / 视频 -> B站
 4. 考试
-![](/linux_note_image/2023-02-16-08-07-20.png)
 
 ## 考察方式
 1. 平时:期末 = 3:7
@@ -27,8 +16,6 @@ dateCreated: 2023-02-16T02:41:19.258Z
 2. B706
 3. 课后问题
    - 学习通
-   - QQ: 5396 2791  <-  学委  备注
-   - email: zhaoqid@zsc.edu.cn
 4. 尽量在课上提问
 
 ## 课程
@@ -77,11 +64,11 @@ Linux --提供--> 服务 --> App
 ## 实验室FTP
 1. ubuntu-20.04.3-live-server-amd64.iso
 2. Filezilla 
-   ![](/linux_note_image/2023-02-16-09-03-57.png)
+   ![](linux_note_image/2023-02-16-09-03-57.png)
 3. FTP 
-   ![](/linux_note_image/2023-02-16-09-04-34.png)
+   ![](linux_note_image/2023-02-16-09-04-34.png)
 4. 目录
-   ![](/linux_note_image/2023-02-16-09-05-44.png)
+   ![](linux_note_image/2023-02-16-09-05-44.png)
 5. 直接拖动下载
    - 默认下载 当前登录用户的 DZ C:\Users\DZ\
 
@@ -100,27 +87,27 @@ Linux --提供--> 服务 --> App
 
 ## 新建虚拟机
 1. Vm 
-   ![](/linux_note_image/2023-02-16-09-14-23.png)
+   ![](linux_note_image/2023-02-16-09-14-23.png)
 2. 新建虚拟机
-   ![](/linux_note_image/2023-02-16-09-15-12.png)
+   ![](linux_note_image/2023-02-16-09-15-12.png)
 3. 典型 
-   ![](/linux_note_image/2023-02-16-09-15-41.png)
+   ![](linux_note_image/2023-02-16-09-15-41.png)
 4. 稍后安装 
-   ![](/linux_note_image/2023-02-16-09-16-07.png)
+   ![](linux_note_image/2023-02-16-09-16-07.png)
 5. Ubuntu 64 
-   ![](/linux_note_image/2023-02-16-09-16-43.png)
+   ![](linux_note_image/2023-02-16-09-16-43.png)
 6. 名字和保存目录
-   ![](/linux_note_image/2023-02-16-09-18-28.png)
+   ![](linux_note_image/2023-02-16-09-18-28.png)
 7. 硬盘
-   ![](/linux_note_image/2023-02-16-09-19-02.png)
+   ![](linux_note_image/2023-02-16-09-19-02.png)
 8. 自定义硬件
-   ![](/linux_note_image/2023-02-16-09-19-33.png)
+   ![](linux_note_image/2023-02-16-09-19-33.png)
 9. 假设完成 -> 编辑虚拟机设置
-    ![](/linux_note_image/2023-02-16-09-20-16.png)
+    ![](linux_note_image/2023-02-16-09-20-16.png)
 10. CPU 
-    ![](/linux_note_image/2023-02-16-09-21-15.png)
+    ![](linux_note_image/2023-02-16-09-21-15.png)
 11. 设置光盘镜像位置
-    ![](/linux_note_image/2023-02-16-09-22-37.png)
+    ![](linux_note_image/2023-02-16-09-22-37.png)
 
 ## Markdown / md 文件
 1. typora打开
@@ -130,37 +117,152 @@ Linux --提供--> 服务 --> App
   
 ## 安装系统 
 1. power on 
-   ![](/linux_note_image/2023-02-16-09-30-47.png)
+   ![](linux_note_image/2023-02-16-09-30-47.png)
 2. 鼠标点进 虚拟机 
    - Ctrl + Alt 退出虚拟机
 3. 只能用键盘
    - 上下键，或者 tab键 
    - Enter 确定，下一步
 4. 选择语言
-   ![](/linux_note_image/2023-02-16-09-33-20.png)
+   ![](linux_note_image/2023-02-16-09-33-20.png)
 5. 不更新 installer 
-   ![](/linux_note_image/2023-02-16-09-37-02.png)
+   ![](linux_note_image/2023-02-16-09-37-02.png)
 6. 键盘布局 默认 English 
-   ![](/linux_note_image/2023-02-16-09-37-53.png)
+   ![](linux_note_image/2023-02-16-09-37-53.png)
 7. 自动获得IP地址
-   ![](/linux_note_image/2023-02-16-09-39-24.png)
+   ![](linux_note_image/2023-02-16-09-39-24.png)
 8. 代理服务器为空
-   ![](/linux_note_image/2023-02-16-09-39-58.png)
+   ![](linux_note_image/2023-02-16-09-39-58.png)
 9. 设置mirror address 
    - https://mirrors.huaweicloud.com/ubuntu
-   ![](/linux_note_image/2023-02-16-10-08-01.png)
+   ![](linux_note_image/2023-02-16-10-08-01.png)
 10. 使用整个磁盘
-    ![](/linux_note_image/2023-02-16-10-09-18.png)
+    ![](linux_note_image/2023-02-16-10-09-18.png)
 11. 磁盘分区信息
-    ![](/linux_note_image/2023-02-16-10-11-15.png)
+    ![](linux_note_image/2023-02-16-10-11-15.png)
 12. 确认磁盘操作
-    ![](/linux_note_image/2023-02-16-10-12-28.png)
+    ![](linux_note_image/2023-02-16-10-12-28.png)
 13. 设置用户名密码  test / asdf 
-    ![](/linux_note_image/2023-02-16-10-14-01.png)
+    ![](linux_note_image/2023-02-16-10-14-01.png)
 14. 默认不安装 Openssh server
-    ![](/linux_note_image/2023-02-16-10-14-47.png)
+    ![](linux_note_image/2023-02-16-10-14-47.png)
 15. 默认不选择安装任何服务
-    ![](/linux_note_image/2023-02-16-10-15-42.png)
+    ![](linux_note_image/2023-02-16-10-15-42.png)
 16. 安装系统
-    ![](/linux_note_image/2023-02-16-10-16-23.png)
+    ![](linux_note_image/2023-02-16-10-16-23.png)
+17. Complete 安装完毕
+18. 重启 
+19. reboot 
+20. Enter
 
+
+## 启动系统
+1. 按几下Enter，看到登录提示
+   ![](linux_note_image/2023-02-16-10-28-30.png)
+2. 登录，输入用户名，密码
+   ![](linux_note_image/2023-02-16-10-30-21.png)
+3. 欢迎界面
+   ![](linux_note_image/2023-02-16-10-34-23.png)
+
+## 远程控制 
+1. 使用场景
+   - 阿里云服务器，公网IP，在本地远程控制，SSH协议
+   - 实验室服务器
+2. 演示
+   - 虚拟机Linux服务器系统，当做远程服务器
+   - Windows宿主机当做本地环境
+   - 通过网络协议，SSH
+
+## 确保网络畅通
+1. Windows ping通 虚拟机IP
+2. 首先要知道虚拟机IP地址
+   - 欢迎界面里看见IP
+   - 或者，通过其它软件查看
+3. 安装 net-tools
+```shell
+sudo apt install net-tools
+``` 
+4. sudo 需要 输入密码
+![](linux_note_image/2023-02-16-10-44-51.png)
+5. 安装过程
+   ![](linux_note_image/2023-02-16-10-45-57.png)
+6. ifconlinux_note_image 192.168.233.129
+   ![](linux_note_image/2023-02-16-10-59-14.png)
+7. windows 利用 cmder 
+   ![](linux_note_image/2023-02-16-11-00-17.png)
+8. ping 192.168.233.129 
+9. ping通
+   ![](linux_note_image/2023-02-16-11-01-33.png)
+10. 假设ping超时，网络属性
+    ![](linux_note_image/2023-02-16-11-02-23.png)
+11. 更改适配器设置
+    ![](linux_note_image/2023-02-16-11-02-54.png)
+12. 启用两块虚拟网卡
+    ![](linux_note_image/2023-02-16-11-04-00.png)
+
+## SSH
+1. 宿主机windows --SSH--> 虚拟机Linux
+2. 虚拟机Linux 开启SSH服务
+3. 安装 openssh-server
+```shell
+sudo apt install openssh-server
+```
+4. 安装需要确认
+   ![](linux_note_image/2023-02-16-11-09-10.png)
+5. 回到windows Cmder 
+   - ssh 用户名@虚拟机IP地址
+   - ssh test@192.168.233.129 
+6. 确认
+   ![](linux_note_image/2023-02-16-11-14-12.png)
+7. 输入密码，进入欢迎页面
+
+## 部署web服务
+1. 虚拟机里安装nginx 
+```shell
+sudo apt install nginx
+```
+3. sudo reboot 重启虚拟机 
+1. 在windows 利用 浏览器 访问 虚拟机IP地址
+   - http 协议 
+   - nginx 默认主页
+   - http://192.168.233.129/
+4. 默认主页
+   ![](linux_note_image/2023-02-16-11-24-23.png)
+
+## 定制web服务的主页
+1. windows 新建 index.html 文件
+   ![](linux_note_image/2023-02-16-11-26-49.png)
+2. 修改index.html源码
+```html
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
+</head>
+<body>
+
+<h2>Norwegian Mountain Trip</h2>
+<img border="0" src="/images/pulpit.jpg" alt="Pulpit rock" width="304" height="228">
+
+</body>
+</html>
+```
+
+## 主页文件放到nginx目录
+1. 利用filezilla，上传到虚拟机
+   ![](linux_note_image/2023-02-16-11-31-10.png)
+2. stfp 文件传输服务，是ssh附属
+3. 直接把index.html 上传 到 虚拟机
+4. 把 index.html 复制到 nginx 主目录
+```shell 
+sudo cp index.html /var/www/html 
+```
+![](linux_note_image/2023-02-16-11-34-07.png)
+5. 图片上传到虚拟机
+6. 复制图片到 nginx主目录
+```shell
+sudo mkdir /var/www/html/images
+sudo cp pulpit.jpg /var/www/html/images
+```
+![](linux_note_image/2023-02-16-11-37-55.png)
