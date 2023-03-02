@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人笔记/Linux/Linux.md",
+                "file": "Linux/第二节课.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7326971b68e2162f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人笔记/Linux/Linux.md",
+                "file": "Linux/第二节课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人笔记/Linux/Linux.md",
+                "file": "Linux/第二节课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人笔记/Linux/Linux.md"
+                "file": "Linux/第二节课.md"
               }
             }
           }
@@ -139,22 +140,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "89a69233c75ea2bd",
+  "active": "d5c8088d583a4682",
   "lastOpenFiles": [
+    "Linux/第三节课.md",
+    "Linux/linux_note_image/2023-02-16-08-07-20 1.png",
+    "Linux/linux_note_image/2023-02-16-09-16-43 1.png",
+    "Linux/linux_note_image/2023-02-16-09-16-07 1.png",
+    "Linux/linux_note_image/2023-02-16-09-15-41 1.png",
+    "Linux/linux_note_image/2023-02-16-09-15-12 1.png",
+    "Linux/linux_note_image/2023-02-16-09-14-23 1.png",
+    "Linux/linux_note_image/2023-02-16-09-05-44 1.png",
+    "Linux/linux_note_image/2023-02-16-09-04-34 1.png",
+    "Linux/linux_note_image/2023-02-16-09-03-57 1.png",
+    "Linux/linux_note_image/2023-03-02-10-07-09.png",
+    "个人笔记/Linux/Linux.md",
     "个人笔记/Linux/BASH学习.md",
     "个人笔记/Linux/主机规划与磁盘分区.md",
-    "个人笔记/Linux/Linux.md",
     "个人笔记/Linux/Linux是什么.md",
-    "个人笔记/Linux/image/Pasted image 20230220204717.png",
-    "Pasted image 20230220204544.png",
     "Linux/001.md",
     "个人笔记/Linux/首次登陆.md",
     "个人笔记/Linux/文件与文件系统的压缩.md",
