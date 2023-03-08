@@ -4,60 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a56c763e6d7b78e6",
-        "type": "split",
+        "id": "218f610f5cd69fc6",
+        "type": "tabs",
         "children": [
           {
-            "id": "143bb598c1a62a61",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4f79988717cafdce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Linux/3.第三节课.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "841980650974084c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "个人笔记/Spring/SAB/思维导图.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "6b2c91549c064b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人笔记/Spring/SAB/思维导图.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "9384e23f1149587d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f9948eb253386d7f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmapView",
-                  "state": {
-                    "file": "个人笔记/Spring/SAB/思维导图.md"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7326971b68e2162f",
@@ -187,17 +149,26 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "841980650974084c",
+  "active": "6b2c91549c064b64",
   "lastOpenFiles": [
+    "个人笔记/Spring/SAB/Code/common/base/BaseMapStruct.md",
+    "个人笔记/Spring/SAB/思维导图.md",
+    "个人笔记/Spring/SAB/Code/common/base/BaseTreeEntity.md",
+    "个人笔记/Spring/SAB/Code/common/base/BaseTreeDto.md",
+    "个人笔记/Spring/SAB/Code/common/base/BaseTree.md",
+    "个人笔记/Spring/SAB/Code/common/base/BaseEntity.md",
+    "个人笔记/Spring/SAB/Code/common/base/BaseDto.md",
+    "个人笔记/Spring/SAB/Code/common/base",
+    "个人笔记/Spring/SAB/Code/common",
+    "个人笔记/Spring/SAB/Code",
     "home.md",
+    "未命名.canvas",
+    "Linux/3.第三节课.md",
     "个人笔记/Linux/image/Pasted image 20230220204717.png",
     "个人笔记/Linux/BASH学习.md",
     "note/磁盘与文件管理系统.md",
-    "个人笔记/Spring/SAB/思维导图.md",
-    "Linux/3.第三节课.md",
     "Linux/2.第二节课.md",
     "Linux/1.第一节课.md",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "未命名 1.canvas"
   ]
 }
