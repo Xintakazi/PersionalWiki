@@ -4,23 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "143bb598c1a62a61",
-        "type": "tabs",
+        "id": "a56c763e6d7b78e6",
+        "type": "split",
         "children": [
           {
-            "id": "89a69233c75ea2bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/第二节课.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "143bb598c1a62a61",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f79988717cafdce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Linux/3.第三节课.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "841980650974084c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "个人笔记/Spring/SAB/思维导图.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "9384e23f1149587d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9948eb253386d7f",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmapView",
+                  "state": {
+                    "file": "个人笔记/Spring/SAB/思维导图.md"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第二节课.md",
+                "file": "个人笔记/Spring/SAB/思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第二节课.md",
+                "file": "个人笔记/Spring/SAB/思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/第二节课.md"
+                "file": "个人笔记/Spring/SAB/思维导图.md"
               }
             }
           }
@@ -150,26 +187,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "d5c8088d583a4682",
+  "active": "841980650974084c",
   "lastOpenFiles": [
-    "Linux/第三节课.md",
-    "Linux/linux_note_image/2023-02-16-08-07-20 1.png",
-    "Linux/linux_note_image/2023-02-16-09-16-43 1.png",
-    "Linux/linux_note_image/2023-02-16-09-16-07 1.png",
-    "Linux/linux_note_image/2023-02-16-09-15-41 1.png",
-    "Linux/linux_note_image/2023-02-16-09-15-12 1.png",
-    "Linux/linux_note_image/2023-02-16-09-14-23 1.png",
-    "Linux/linux_note_image/2023-02-16-09-05-44 1.png",
-    "Linux/linux_note_image/2023-02-16-09-04-34 1.png",
-    "Linux/linux_note_image/2023-02-16-09-03-57 1.png",
-    "Linux/linux_note_image/2023-03-02-10-07-09.png",
-    "个人笔记/Linux/Linux.md",
+    "home.md",
+    "个人笔记/Linux/image/Pasted image 20230220204717.png",
     "个人笔记/Linux/BASH学习.md",
-    "个人笔记/Linux/主机规划与磁盘分区.md",
-    "个人笔记/Linux/Linux是什么.md",
-    "Linux/001.md",
-    "个人笔记/Linux/首次登陆.md",
-    "个人笔记/Linux/文件与文件系统的压缩.md",
-    "个人笔记/Linux/磁盘与文件系统管理.md"
+    "note/磁盘与文件管理系统.md",
+    "个人笔记/Spring/SAB/思维导图.md",
+    "Linux/3.第三节课.md",
+    "Linux/2.第二节课.md",
+    "Linux/1.第一节课.md",
+    "未命名 1.canvas",
+    "未命名.canvas"
   ]
 }

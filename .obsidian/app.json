@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "个人笔记/Linux/image"
 }
